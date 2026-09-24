@@ -1,8 +1,9 @@
+import CounterSection from "../sections/CounterSection";
 
 export default function MainContent() {
     return (
         <main>
-            <MainContent/>
+            <CounterSection />
         </main>
     )
 }
