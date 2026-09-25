@@ -5,8 +5,12 @@ export default function CounterSection() {
 
     function handleIncrement() {
         setCount(count + 1);
-
     }
+
+    function handleReset() {
+        setCount(0);
+    }
+
 
 
   return (
@@ -15,6 +19,7 @@ export default function CounterSection() {
             <p>{count}</p>
 
             <button onClick={handleIncrement} className='btn btn-primary'>Incrementa</button>
+            <button onClick={handleReset} className='btn btn-danger'>Azzera</button>
 
 
 
