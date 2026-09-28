@@ -11,25 +11,17 @@ export default function CounterSection() {
         setCount(0);
     }
 
-
-
-  return (
+    return (
         <section className='text-center'>
-
             <p>{count}</p>
-
             <button onClick={handleIncrement} className='btn btn-primary'>Incrementa</button>
             <button onClick={handleReset} className='btn btn-danger'>Azzera</button>
-
-
-
         </section>
-
-
-
-
-
         )
-
     }
+    
+
+
+
+
     

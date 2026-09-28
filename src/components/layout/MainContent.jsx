@@ -1,9 +1,20 @@
-import CounterSection from "../sections/CounterSection";
+// import CounterSection from "../sections/CounterSection";
+import ButtonDinamic from "../sections/ButtonDinamic"
 
 export default function MainContent() {
     return (
         <main>
-            <CounterSection />
+            {/* <CounterSection /> */}
+            < ButtonDinamic />
+
+
+
+
+
+
+
+
+
         </main>
     )
 }
