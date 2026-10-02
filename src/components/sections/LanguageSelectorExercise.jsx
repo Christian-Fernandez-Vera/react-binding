@@ -14,7 +14,7 @@ export default function LanguageSelectorExercise() {
 
   return (
     <section className="p-4 border rounded shadow-sm bg-white mb-4">
-      <h3 className="h5 text-secondary">4. Selettore Linguistico</h3>
+      <h3 className="h5 text-secondary">Selettore Linguistico</h3>
       
       <div className="d-flex gap-2 mb-3">
         {Object.keys(TRANSLATIONS).map((langKey) => (
