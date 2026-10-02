@@ -5,7 +5,8 @@
 // import CharCounter from "../exercises/CharCounter";
 // import NameFilter from "../exercises/NameFilter";
 // import LiveHeading from "../exercises/LiveHeading";
-import FullNameMerger from "../exercises/FullNameMerger";
+// import FullNameMerger from "../exercises/FullNameMerger";
+import CheckboxUnlockButton from "../exercises/CheckboxUnlockButton";
 
 
 
@@ -22,8 +23,8 @@ export default function MainContent() {
             {/* < CharCounter /> */}
             {/* < NameFilter /> */}
             {/* < LiveHeading /> */}
-            < FullNameMerger />
-
+            {/* < FullNameMerger /> */}
+            < CheckboxUnlockButton />
 
         </main>
     )
