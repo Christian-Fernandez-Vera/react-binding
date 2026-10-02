@@ -4,7 +4,8 @@
 // import TodoListExercise from "../sections/TodoListExercise";
 // import CharCounter from "../exercises/CharCounter";
 // import NameFilter from "../exercises/NameFilter";
-import LiveHeading from "../exercises/LiveHeading";
+// import LiveHeading from "../exercises/LiveHeading";
+import FullNameMerger from "../exercises/FullNameMerger";
 
 
 
@@ -20,8 +21,8 @@ export default function MainContent() {
             {/* < TodoListExercise /> */}
             {/* < CharCounter /> */}
             {/* < NameFilter /> */}
-            < LiveHeading />
-
+            {/* < LiveHeading /> */}
+            < FullNameMerger />
 
 
         </main>
