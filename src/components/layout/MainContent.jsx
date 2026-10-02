@@ -3,7 +3,8 @@
 // import LanguageSelectorExercise from "../sections/LanguageSelectorExercise"
 // import TodoListExercise from "../sections/TodoListExercise";
 // import CharCounter from "../exercises/CharCounter";
-import NameFilter from "../exercises/NameFilter";
+// import NameFilter from "../exercises/NameFilter";
+import LiveHeading from "../exercises/LiveHeading";
 
 
 
@@ -18,8 +19,8 @@ export default function MainContent() {
             {/* < LanguageSelectorExercise /> */}
             {/* < TodoListExercise /> */}
             {/* < CharCounter /> */}
-            < NameFilter />
-
+            {/* < NameFilter /> */}
+            < LiveHeading />
 
 
 
