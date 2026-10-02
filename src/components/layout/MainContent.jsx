@@ -1,7 +1,8 @@
 // import CounterSection from "../sections/CounterSection";
 // import ButtonDinamic from "../sections/ButtonDinamic"
 // import LanguageSelectorExercise from "../sections/LanguageSelectorExercise"
-import TodoListExercise from "../sections/TodoListExercise";
+// import TodoListExercise from "../sections/TodoListExercise";
+import CharCounter from "../exercises/CharCounter";
 
 
 
@@ -14,8 +15,8 @@ export default function MainContent() {
             {/* < ButtonDinamic /> */}
             {/* < TextAlignExercise /> */}
             {/* < LanguageSelectorExercise /> */}
-            < TodoListExercise />
-
+            {/* < TodoListExercise /> */}
+            < CharCounter />
 
 
 
