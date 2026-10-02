@@ -8,7 +8,7 @@ export default function CharCounter() {
 
   return (
     <div className="card p-3 mb-3 border-secondary bg-dark text-light">
-      <h5>1. Contador de Caracteres</h5>
+      <h5>Contador de Caracteres</h5>
       <input
         type="text"
         className="form-control mb-2"

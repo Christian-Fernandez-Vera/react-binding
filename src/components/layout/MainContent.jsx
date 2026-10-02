@@ -2,7 +2,8 @@
 // import ButtonDinamic from "../sections/ButtonDinamic"
 // import LanguageSelectorExercise from "../sections/LanguageSelectorExercise"
 // import TodoListExercise from "../sections/TodoListExercise";
-import CharCounter from "../exercises/CharCounter";
+// import CharCounter from "../exercises/CharCounter";
+import NameFilter from "../exercises/NameFilter";
 
 
 
@@ -16,8 +17,8 @@ export default function MainContent() {
             {/* < TextAlignExercise /> */}
             {/* < LanguageSelectorExercise /> */}
             {/* < TodoListExercise /> */}
-            < CharCounter />
-
+            {/* < CharCounter /> */}
+            < NameFilter />
 
 
 
