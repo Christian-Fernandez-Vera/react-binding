@@ -1,4 +1,6 @@
 // src/components/exercises/StyleToggleExercise.jsx
+//esercizio 1
+
 import { useState } from 'react';
 
 export default function StyleToggleExercise() {

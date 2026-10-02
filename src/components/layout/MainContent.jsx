@@ -1,6 +1,6 @@
 // import CounterSection from "../sections/CounterSection";
 // import ButtonDinamic from "../sections/ButtonDinamic"
-import TextAlignExercise from "../sections/TextAlignExercise"
+import LanguageSelectorExercise from "../sections/LanguageSelectorExercise"
 
 
 
@@ -11,8 +11,8 @@ export default function MainContent() {
         <main>
             {/* <CounterSection /> */}
             {/* < ButtonDinamic /> */}
-        < TextAlignExercise />
-
+            {/* < TextAlignExercise /> */}
+            < LanguageSelectorExercise />
 
 
 

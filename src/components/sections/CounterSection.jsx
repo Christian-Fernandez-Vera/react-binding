@@ -1,3 +1,4 @@
+//esercizio 2
 import { useState } from 'react'
 
 export default function CounterSection() {
